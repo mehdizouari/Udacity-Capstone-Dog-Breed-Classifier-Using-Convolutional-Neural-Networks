@@ -1,4 +1,4 @@
-# Udacity-Capstone-Project
+# Udacity-Capstone-Dog-Breed-Classifier
 
 Dog Breed Classifier using CNN Domain
 
